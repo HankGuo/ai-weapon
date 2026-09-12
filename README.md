@@ -26,7 +26,8 @@ js/app.js      # 交互
 
 - 个人主页：[aichi.food](https://aichi.food)
 - 公众号「**算力白肉**」：微信搜索同名 ID
-- B 端承接：[rayda-tech.com](https://www.rayda-tech.com)
+- 项目承接 / 商务合作：[rayda-tech.com](https://www.rayda-tech.com)
+- Twitter/X: [@HANK_G_](https://twitter.com/HANK_G_)
 - GitHub: [@HankGuo](https://github.com/HankGuo)
 
 ---
