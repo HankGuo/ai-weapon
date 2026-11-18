@@ -1,5 +1,8 @@
 # ai-weapon
 
+> 📌 **内容站 · 静态部署** —— 本仓库是已上线站点的源码：**代码基本冻结，内容持续更新**。
+> 线上地址：https://ai-weapon.aichi.food  ·  站点总览与更多内容以主站 [aichi.food](https://aichi.food) 为准。
+
 > 把 AGI 路上的实战经验，做成图文并茂的在线手册。
 
 Hank 的 **AGI 实战经验沉淀站**——
